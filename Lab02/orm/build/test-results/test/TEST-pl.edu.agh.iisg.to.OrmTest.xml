@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="pl.edu.agh.iisg.to.OrmTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-11-03T21:33:14.851Z" hostname="VICTUSPIOTER" time="1.787">
+<testsuite name="pl.edu.agh.iisg.to.OrmTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-11-04T08:09:38.473Z" hostname="VICTUSPIOTER" time="1.898">
   <properties/>
-  <testcase name="studentCanBeGraded()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.456"/>
-  <testcase name="courseConsistsOfEnrolledStudents()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.042"/>
-  <testcase name="studentCanBeRemovedFromSchool()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.041"/>
-  <testcase name="courseReportCanBeObtained()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.077"/>
+  <testcase name="studentCanBeGraded()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.481"/>
+  <testcase name="courseConsistsOfEnrolledStudents()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.046"/>
+  <testcase name="studentCanBeRemovedFromSchool()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.05"/>
+  <testcase name="courseReportCanBeObtained()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.079"/>
   <testcase name="studentCanBeEnrolledInCourseOnce()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.032"/>
-  <testcase name="allStudentsCanBeListed()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.034"/>
-  <testcase name="courseWithUniqueNameCanBeCreated()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.032"/>
-  <testcase name="studentWithUniqueIndexNumberCanBeCreated()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.025"/>
-  <testcase name="studentCanBeFoundByIndexNumber()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.014"/>
-  <testcase name="courseCanBeFoundById()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.012"/>
+  <testcase name="allStudentsCanBeListed()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.037"/>
+  <testcase name="courseWithUniqueNameCanBeCreated()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.04"/>
+  <testcase name="studentWithUniqueIndexNumberCanBeCreated()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.027"/>
+  <testcase name="studentCanBeFoundByIndexNumber()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.015"/>
+  <testcase name="courseCanBeFoundById()" classname="pl.edu.agh.iisg.to.OrmTest" time="0.013"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[log4j:WARN No appenders could be found for logger (org.jboss.logging).
 log4j:WARN Please initialize the log4j system properly.
