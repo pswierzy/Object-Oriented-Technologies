@@ -5,7 +5,7 @@ import java.util.List;
 
 public class CrawlerApp {
 
-    public static final String GOOGLE_CUSTOM_SEARCH_API_KEY = "AIzaSyAtCxNM_8zVaytpi-D7em9bNwz5ZtadMrg";
+    public static final String GOOGLE_CUSTOM_SEARCH_API_KEY = "";
 
     private static final List<String> TOPICS = List.of("Agent Cooper", "Sherlock", "Poirot", "Detective Monk");
 
