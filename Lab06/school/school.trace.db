@@ -1,0 +1,4 @@
+2025-11-25 09:19:11.343922+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Błąd składniowy w wyrażeniu SQL "SELECT * FROM STUDENT STUDENT_GRADES [*]GRADE"
+Syntax error in SQL statement "SELECT * FROM STUDENT STUDENT_GRADES [*]GRADE"; SQL statement:
+SELECT * FROM STUDENT STUDENT_GRADES GRADE [42000-232]
